@@ -1,0 +1,7 @@
+station_id,coverage_2021_pct,coverage_2022_pct,coverage_2023_pct,coverage_2024_pct,coverage_2025_pct,mean_coverage_pct,min_coverage_pct,every_year_pass_70,mean_only_pass_70,every_year_pass_80,mean_only_pass_80,every_year_pass_90,mean_only_pass_90
+SIM_A,95.0228,95.0228,95.0228,95.0364,95.0228,95.0256,95.0228,True,False,True,False,True,False
+SIM_B,90.0000,90.0000,60.0000,90.0273,90.0000,84.0055,60.0000,False,True,False,True,False,False
+SIM_C,85.0228,85.0228,85.0228,85.0182,85.0228,85.0219,85.0182,True,False,True,False,False,False
+SIM_D,75.0228,75.0228,75.0228,75.0000,75.0228,75.0183,75.0000,True,False,False,False,False,False
+SIM_E,65.0228,65.0228,65.0228,65.0273,65.0228,65.0237,65.0228,False,False,False,False,False,False
+SIM_F,95.0228,95.0228,95.0228,95.0364,88.0365,93.6283,88.0365,True,False,True,False,False,True

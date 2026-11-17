@@ -1,0 +1,4 @@
+threshold_pct,mean_pass,every_year_pass,mean_only_pass
+70,5,4,1
+80,4,3,1
+90,2,1,1
